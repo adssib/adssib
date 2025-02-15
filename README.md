@@ -16,3 +16,10 @@ Here are some ideas to get you started:
 -->
 
 I am supposed to write something here but not now maybe later 
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=adssib&show_icons=true&theme=react&&hide_border=true"
+/>
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=adssib&&theme=react&&hide_border=true"
+/>
