@@ -25,3 +25,6 @@ I am supposed to write something here but not now maybe later
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=adssib&&theme=vue&&hide_border=true"
 />
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adssib&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
