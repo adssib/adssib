@@ -16,15 +16,10 @@ Here are some ideas to get you started:
 -->
 
 I am supposed to write something here but not now maybe later 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=adssib&theme=vue)
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=adssib&show_icons=true&theme=vue&&hide_border=true"
-/>
 
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=adssib&&theme=vue&&hide_border=true"
 />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adssib&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
